@@ -1,3 +1,25 @@
+# Movie App
+
+## Deployment
+Check out the deployed Todo App [here](https://amrkhaled5.github.io/Movies-ReactApp/).
+
+## Overview
+This is a simple Movie Search App built using React. The application allows users to search for movies, rate them, add them to their watchlist, and remove them as needed.
+
+## Features
+Search Functionality: Users can search for their favorite movies.
+Rating System: Rate movies based on personal preferences.
+Watchlist: Add movies to a personal list for easy access.
+Removal Option: Easily remove movies from the watchlist.
+State Management: Efficiently manages state within the app using React hooks.
+Custom Hooks: Implements custom hooks for better code organization.
+Data Fetching: Fetches movie data from an external API.
+
+## Technologies Used
+React
+JavaScript
+CSS (for styling)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
