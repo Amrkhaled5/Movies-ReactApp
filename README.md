@@ -16,9 +16,9 @@ Custom Hooks: Implements custom hooks for better code organization.
 Data Fetching: Fetches movie data from an external API.
 
 ## Technologies Used
-React
-JavaScript
-CSS (for styling)
+- React
+- JavaScript
+- CSS (for styling)
 
 # Getting Started with Create React App
 
